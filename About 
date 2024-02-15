@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM Serif Text:ital,wght@0,400;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM Sans:ital,wght@0,400;0,500;0,700;1,500;1,700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM Serif Display:ital,wght@0,400;1,400&display=swap"
+    />
+
+    <style>
+      body {
+        margin: 0;
+        line-height: normal;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      style="
+        position: relative;
+        background-color: #fff;
+        width: 100%;
+        height: 2731px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 24px;
+        color: #666;
+        font-family: 'DM Sans';
+      "
+    >
+      <div
+        style="
+          position: absolute;
+          top: 176px;
+          left: 138px;
+          font-size: 64px;
+          font-family: 'DM Serif Text';
+          color: #595858;
+          display: inline-block;
+          width: 928px;
+          height: 176px;
+        "
+      >
+        I’m Breanna, a passionate designer from Toronto, Ontario.
+      </div>
+      <b
+        style="
+          position: absolute;
+          top: 1025px;
+          left: 138px;
+          font-size: 40px;
+          display: inline-block;
+          color: #595858;
+          width: 811px;
+          height: 54px;
+        "
+        >Where am I at, and where do I want to go?</b
+      >
+      <b
+        style="
+          position: absolute;
+          top: 1978px;
+          left: 164px;
+          font-size: 40px;
+          display: inline-block;
+          color: #595858;
+          width: 234px;
+          height: 54px;
+        "
+        >What I Like
+      </b>
+      <div
+        style="
+          position: absolute;
+          top: 77px;
+          left: 862px;
+          font-size: 32px;
+          font-weight: 500;
+          text-align: center;
+          display: inline-block;
+          width: 139px;
+          height: 37px;
+        "
+      >
+        WORK
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 77px;
+          left: 1010px;
+          font-size: 32px;
+          font-weight: 500;
+          text-align: center;
+          display: inline-block;
+          width: 139px;
+          height: 37px;
+        "
+      >
+        ABOUT
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 77px;
+          left: 1159px;
+          font-size: 32px;
+          font-weight: 500;
+          text-align: center;
+          display: inline-block;
+          width: 156px;
+          height: 37px;
+        "
+      >
+        CONTACT
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 2353px;
+          left: 0px;
+          width: 1440px;
+          height: 378px;
+        "
+      >
+        <div
+          style="
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            background-color: #f1f1f1;
+            width: 1440px;
+            height: 378px;
+          "
+        ></div>
+        <div
+          style="
+            position: absolute;
+            top: 292px;
+            left: 628px;
+            font-size: 14px;
+            color: #8b8b8b;
+            display: inline-block;
+            width: 212px;
+            height: 25px;
+          "
+        >
+          Copyright © 2024 Breanna Levy
+        </div>
+        <div
+          style="
+            position: absolute;
+            top: 328px;
+            left: 553px;
+            font-size: 14px;
+            color: #8b8b8b;
+            display: inline-block;
+            width: 361px;
+            height: 21px;
+          "
+        >
+          Designed with Figma, Developed in Visual Studio Code
+        </div>
+        <div
+          style="
+            position: absolute;
+            top: 226px;
+            left: 649px;
+            display: inline-block;
+            width: 271px;
+            height: 37px;
+          "
+        >
+          bgmlevy@uwaterloo.ca
+        </div>
+        <div
+          style="
+            position: absolute;
+            top: 226px;
+            left: 488px;
+            display: inline-block;
+            width: 137px;
+            height: 37px;
+          "
+        >
+          artistryb.co
+        </div>
+        <div
+          style="
+            position: absolute;
+            top: 226px;
+            left: 944px;
+            display: inline-block;
+            width: 155px;
+            height: 37px;
+          "
+        >
+          Breanna Levy
+        </div>
+        <div
+          style="
+            position: absolute;
+            top: 226px;
+            left: 369px;
+            display: inline-block;
+            width: 95px;
+            height: 37px;
+          "
+        >
+          Resume
+        </div>
+        <div
+          style="
+            position: absolute;
+            top: 36px;
+            left: 417px;
+            font-size: 64px;
+            font-family: 'DM Serif Text';
+            text-align: center;
+            display: inline-block;
+            width: 634px;
+            height: 162px;
+          "
+        >
+          LET’S TALK ABOUT THE NEXT BIG THING!
+        </div>
+      </div>
+      <img
+        style="
+          position: absolute;
+          top: 414px;
+          left: 808px;
+          width: 519px;
+          height: 534px;
+          object-fit: cover;
+        "
+        alt=""
+        src="./public/rectangle-10@2x.png"
+      />
+
+      <img
+        style="
+          position: absolute;
+          top: 1159px;
+          left: 138px;
+          width: 1161px;
+          height: 722px;
+          object-fit: cover;
+        "
+        alt=""
+        src="./public/rectangle-11@2x.png"
+      />
+
+      <div
+        style="
+          position: absolute;
+          top: 414px;
+          left: 138px;
+          display: inline-block;
+          width: 559px;
+          height: 549px;
+        "
+      >
+        <p style="margin: 0">
+          I am presently pursuing a Global Business and Digital Arts degree at
+          the University of Waterloo, focusing on the intersection of digital
+          design and business relations. As an undergraduate student, I am
+          committed to expanding my expertise in this field.
+        </p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">
+          My passion for merging creativity and business drives me to constantly
+          evolve and push the boundaries of my skill set. I am dedicated to
+          leveraging my education and practical knowledge to contribute to
+          innovative projects and deliver exceptional results.
+        </p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">
+          When I’m not designing, you can find me... sleeping. I’m always doing
+          something creative.
+        </p>
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 2043px;
+          left: 164px;
+          display: inline-block;
+          width: 347px;
+          height: 229px;
+        "
+      >
+        <p style="margin: 0">Making Playlists - Take a listen!</p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">
+          When my code runs without error on the first try.
+        </p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">
+          Always having a nice outfit on for any occasion.
+        </p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">&nbsp;</p>
+      </div>
+      <b
+        style="
+          position: absolute;
+          top: 1978px;
+          left: 560px;
+          font-size: 40px;
+          display: inline-block;
+          color: #595858;
+          width: 358px;
+          height: 54px;
+        "
+        >What I’m Learning
+      </b>
+      <div
+        style="
+          position: absolute;
+          top: 2043px;
+          left: 560px;
+          display: inline-block;
+          width: 347px;
+          height: 229px;
+        "
+      >
+        <p style="margin: 0">Procreate Dreams</p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">Project management</p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">
+          Le français (Je parle un peu mais je veux le parler couramment).
+        </p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">&nbsp;</p>
+      </div>
+      <b
+        style="
+          position: absolute;
+          top: 1978px;
+          left: 966px;
+          font-size: 40px;
+          display: inline-block;
+          color: #595858;
+          width: 358px;
+          height: 54px;
+        "
+        >Goals</b
+      >
+      <div
+        style="
+          position: absolute;
+          top: 2043px;
+          left: 966px;
+          display: inline-block;
+          width: 347px;
+          height: 229px;
+        "
+      >
+        <p style="margin: 0">Study abroad</p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">Design for change</p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">
+          Explore every possibility; creativity knows no bounds.
+        </p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">&nbsp;</p>
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 64px;
+          left: 110px;
+          font-size: 48px;
+          font-family: 'DM Serif Text';
+          text-align: center;
+          display: inline-block;
+          width: 320px;
+          height: 62px;
+        "
+      >
+        Breanna Levy
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 77px;
+          left: 65px;
+          border-radius: 50%;
+          background-color: #8c8c8c;
+          width: 45px;
+          height: 45px;
+        "
+      ></div>
+    </div>
+  </body>
+</html>
