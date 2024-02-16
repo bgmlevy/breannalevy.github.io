@@ -341,7 +341,7 @@
 
         <button type="submit">Submit</button>
       </form>
-            <script>
+        <script>
         async function submitForm() {
           try {
             const response = await fetch('https://script.google.com/macros/s/AKfycbxD-1-v_tvmzDyRd-unTICkwccEMOUcd8YvTciuQ2ERnDjm_L_BMwhxnA377AgH5VB4/exec', {
@@ -357,6 +357,7 @@
 
         function handleFormSubmission(response) {
           alert(response);
+            //check if resp
             if(response.includes('Success')) {
                 window.location.href = 'Contact.html';
             }
